@@ -1,5 +1,5 @@
 <div class="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="MasterHead">
+  <img src="https://github.com/shaeakh/shaeakh/assets/102303488/0a15e50d-bbe9-4215-b19a-5757a8211b97" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Shaeakh</h1>
 <h3 align="center">Evolving Architect of Code | Sculpting Digital Realms from Enchanting Bangladesh</h3>
