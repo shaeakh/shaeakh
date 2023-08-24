@@ -8,14 +8,14 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithms**
 
-- 👨‍💻 All of my projects are available at  <a href="https://github.com/shaeakh?tab=repositories"> <img src="https://github.com/shaeakh/shaeakh/assets/102303488/c3c2d18e-e429-4941-af94-c0880f6c4415" width="26" height = "26" /> </a>
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/shaeakh?tab=repositories"> <img src="https://github.com/shaeakh/shaeakh/assets/102303488/c3c2d18e-e429-4941-af94-c0880f6c4415" width="26" height = "26" > </a>
 
 - 💬 Ask me about **C,C++,Data structure and Algorithms**
 
 - 📫 How to reach me : **shaeakh12@gmail.com**
 
 - 📄 Know about my experiences<a href="https://www.linkedin.com/in/shaeakh/">
-  <img src="https://github.com/shaeakh/shaeakh/assets/102303488/5131095b-29d1-460f-a79e-b6470c5820c8" width="35" height = "35" /> </a>
+  <img src="https://github.com/shaeakh/shaeakh/assets/102303488/5131095b-29d1-460f-a79e-b6470c5820c8" width="35" height = "35" > </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
