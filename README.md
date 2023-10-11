@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shaeakh</h1>
 <h3 align="center">Evolving Architect of Code | Sculpting Digital Realms from Enchanting Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/shaeakh/shaeakh/assets/102303488/1f764075-6611-4145-a881-0f4da8fe901a">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaeakh&label=Profile%20views&color=0e75b6&style=flat" alt="shaeakh" /> </p>
+
 
 - 🌱 I’m currently learning **Data structure and Algorithms**
 
