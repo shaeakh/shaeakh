@@ -8,6 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaeakh&label=Profile%20views&color=0e75b6&style=flat" alt="shaeakh"  width="400"/> </p>
 -->
 
+
+
+
+
 - 🌱 I’m currently learning **Data structure and Algorithms**
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/shaeakh?tab=repositories"> <img src="https://github.com/shaeakh/shaeakh/assets/102303488/c3c2d18e-e429-4941-af94-c0880f6c4415" width="26" height = "26" > </a>
