@@ -2,7 +2,7 @@
   <img src="https://github.com/shaeakh/shaeakh/assets/102303488/0a15e50d-bbe9-4215-b19a-5757a8211b97" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Shaeakh</h1>
-<img src = "![](https://komarev.com/ghpvc/?username=shaeakh&color=red&abbreviated=true)" >
+
 
 <h3 align="center">Evolving Architect of Code | Sculpting Digital Realms from Enchanting Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/shaeakh/shaeakh/assets/102303488/1f764075-6611-4145-a881-0f4da8fe901a">
