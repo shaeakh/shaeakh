@@ -2,7 +2,10 @@
   <img src="https://github.com/shaeakh/shaeakh/assets/102303488/0a15e50d-bbe9-4215-b19a-5757a8211b97" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Shaeakh</h1>
+<img src="https://camo.githubusercontent.com/dc1c0311a58fb1ff744e9bcaf9ed7c667c33d0dc7696da38dd7059711dc4439d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7061727468612d737573743136266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="partha-sust16" data-canonical-src="https://komarev.com/ghpvc/?username=partha-sust16&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+
 ![](https://komarev.com/ghpvc/?username=shaeakh&color=red&abbreviated=true)
+
 <h3 align="center">Evolving Architect of Code | Sculpting Digital Realms from Enchanting Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/shaeakh/shaeakh/assets/102303488/1f764075-6611-4145-a881-0f4da8fe901a">
 
