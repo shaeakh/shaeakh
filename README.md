@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=shaeakh&color=red&style=flat&abbreviated=true" alt="shaeakh" data-canonical-src="https://komarev.com/ghpvc/?username=shaeakh&color=red&style=flat-square&abbreviated=true">
 
-- 🌱 I’m currently learning **Data structure and Algorithms**
+- 🌱 I’m currently learning <a href="https://docs.google.com/spreadsheets/d/1fKnz8XLZoJ3DoTyowspveN-8WBZuHsRZxtHKA27xmY0/edit?gid=1083936679#gid=1083936679"> **Data structure and Algorithms** </a>
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/shaeakh?tab=repositories"> <img src="https://github.com/shaeakh/shaeakh/assets/102303488/c3c2d18e-e429-4941-af94-c0880f6c4415" width="26" height = "26" > </a>
 
