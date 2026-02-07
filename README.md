@@ -21,7 +21,7 @@
   <img src="https://github.com/shaeakh/shaeakh/assets/102303488/5131095b-29d1-460f-a79e-b6470c5820c8" width="35" height = "35" > </a>
 
 <h3 align="left">Connect with me:</h3>
-## 👾 Pacman
+<!-- ## 👾 Pacman
 <!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph-dark.svg">
@@ -35,6 +35,19 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
+</picture> -->
+## 👾 Pacman
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaeakh/shaeakh/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaeakh/shaeakh/output-pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shaeakh/shaeakh/output-pacman/pacman-contribution-graph.svg">
+</picture>
+
+## 🐍 Snake
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaeakh/shaeakh/output-snake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaeakh/shaeakh/output-snake/github-snake.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/shaeakh/shaeakh/output-snake/github-snake.svg">
 </picture>
 <p align="left">
 <a href="https://twitter.com/shaeakh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaeakh25" height="30" width="40" /></a>
